@@ -9,3 +9,4 @@
 | 2026-09-22 | Longest Common Prefix | Arrays & Strings | Easy | Completed | 15 min |
 | 2026-09-22 | Binary Search | Basic Algorithms | Easy | Completed | 20 min |
 | 2026-09-22 | Move Zeroes | Basic Algorithms | Easy | Completed | 15 min |
+| 2026-09-22 | Valid Parentheses | Stacks | Easy | Completed | 25 min |
